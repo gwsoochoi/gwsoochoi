@@ -1,7 +1,9 @@
 # Who am i
-I am a Korean backend developer living in Tokyo, Japan, working as a freelancer. 
+To become a slightly better engineer than yesterday 👨‍💻, 
+To build the stamina to perform a little more than yesterday 🏋️, 
+To live a slightly more enjoyable life than yesterday! 😎
 
-And I'm trying to be a little better engineer tomorrow than I was today.
+From Korea 🇰🇷 Live in Tokyo 🗼
 
 # Stack
 ### Backend
