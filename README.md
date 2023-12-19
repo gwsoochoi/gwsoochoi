@@ -1,3 +1,8 @@
+# Who am i
+I am a Korean backend developer living in Tokyo, Japan, working as a freelancer. 
+
+And I'm trying to be a little better engineer tomorrow than I was today.
+
 # Stack
 ### Backend
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white"> <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=RubyOnRails&logoColor=white"> <img src="https://img.shields.io/badge/Java-137CBD?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
