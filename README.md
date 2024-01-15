@@ -1,11 +1,5 @@
 # Who am i
-To become a slightly better engineer than yesterday, 👨‍💻
-
-To build the stamina to perform a little more than yesterday, 🏋️
-
-To live a slightly more enjoyable life than yesterday! 😎
-
-From Korea 🇰🇷 Live in Tokyo 🗼
+Software Engineer
 
 # Stack
 ### Backend
